@@ -6,4 +6,6 @@ This is my implementation of data structures to let me get some experience with 
 2. Double Linked List
 3. Stack
 4. Queue
-5. Coming Soon...
+5. Trees
+6. Graphs
+7. Hash Tables
